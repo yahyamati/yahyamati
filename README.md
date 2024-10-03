@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nextjs , SpringBoot**
 
-- 👨‍💻 All of my projects are available at [https://yahia-dev-ten.vercel.app](https://yahia-dev-ten.vercel.app)
+- 👨‍💻 My portfolio [https://yahia-dev-ten.vercel.app](https://yahia-dev-ten.vercel.app)
 
 - 💬 Ask me about **MERN**
 
