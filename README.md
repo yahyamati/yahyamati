@@ -9,7 +9,7 @@
 
 - 👨‍💻 My portfolio [https://yahia-dev-ten.vercel.app](https://yahia-dev-ten.vercel.app)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN** Stack
 
 - 📫 How to reach me **yahyamati8@gmail.com**
 
