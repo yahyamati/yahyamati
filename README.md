@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 My portfolio [https://yahia-dev-ten.vercel.app](https://yahia-dev-ten.vercel.app)
+
 
 - 💬 Ask me about **MERN** Stack
 
